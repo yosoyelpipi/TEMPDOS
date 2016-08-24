@@ -22,5 +22,14 @@
         },
         "is_top_level": true,
         "variables": {}
+    },
+    "com.eficid.cordova.plugin.rfidscanner": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/eficid/RFIDScannerPlugin",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

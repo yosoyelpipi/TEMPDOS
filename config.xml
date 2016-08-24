@@ -28,6 +28,6 @@
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />
-    <plugin name="org.apache.cordova.device" spec="0.3.0" source="pgb" />
-    <plugin name="com.eficid.cordova.plugin.rfidscanner" spec="0.1.0" source="pgb" />
+    <plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" />
+    <plugin name="com.eficid.cordova.plugin.rfidscanner" spec="https://github.com/eficid/RFIDScannerPlugin" />
 </widget>
